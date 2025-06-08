@@ -65,7 +65,8 @@ The **2FAS GUI Backup Decryption Tool** is a user-friendly desktop application t
 ### Option 2: Run from Source
 
 ```bash
-# Clone the repository
+# Clone the repository![2fas](https://github.com/user-attachments/assets/a1890452-f2d4-48f1-9061-785f0b507b29)
+
 git clone https://github.com/AlexanderQueen/2fas-gui-backup-decryption-tool.git
 cd 2fas-gui-backup-decryption-tool
 
