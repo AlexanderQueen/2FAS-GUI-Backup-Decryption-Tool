@@ -102,8 +102,14 @@ python 2fas.py
 ### Dependencies
 
 ```bash
+# PyQt6 for the graphical user interface
 PyQt6>=6.0.0
+
+# Cryptography library for AES-GCM decryption and PBKDF2 key derivation
 cryptography>=3.4.0
+
+# PyInstaller for building standalone executables (optional - only needed for building)
+PyInstaller>=5.0.0
 ```
 
 ### Building from Source
