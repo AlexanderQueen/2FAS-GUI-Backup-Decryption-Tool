@@ -84,9 +84,9 @@ python 2fas.py
 
 | Platform | Download | Size |
 |:--------:|:--------:|:----:|
-| 🪟 **Windows** | [2FAS-GUI-Backup-Decryption-Tool.exe](https://github.com/AlexanderQueen/2fas-gui-backup-decryption-tool/releases/latest/download/2FAS-GUI-Backup-Decryption-Tool.exe) | ~35MB |
-| 🍎 **macOS** | [2FAS-GUI-Backup-Decryption-Tool.dmg](https://github.com/AlexanderQueen/2fas-gui-backup-decryption-tool/releases/latest/download/2FAS-GUI-Backup-Decryption-Tool.dmg) | TBD |
-| 🐧 **Linux** | [2FAS-GUI-Backup-Decryption-Tool](https://github.com/AlexanderQueen/2fas-gui-backup-decryption-tool/releases/latest/download/2FAS-GUI-Backup-Decryption-Tool) | TBD |
+| 🪟 **Windows** | [2FAS-GUI-Backup-Decryption-Tool.exe](https://github.com/AlexanderQueen/2fas-gui-backup-decryption-tool/releases/latest/download/2FAS-Decryption-Tool.exe) | ~35MB |
+| 🍎 **macOS** | [2FAS-GUI-Backup-Decryption-Tool.dmg](https://github.com/AlexanderQueen/2fas-gui-backup-decryption-tool/releases/latest/download/2FAS-Decryption-Tool.dmg) | TBD |
+| 🐧 **Linux** | [2FAS-GUI-Backup-Decryption-Tool](https://github.com/AlexanderQueen/2fas-gui-backup-decryption-tool/releases/latest/download/2FAS-Decryption-Tool) | TBD |
 
 </div>
 
