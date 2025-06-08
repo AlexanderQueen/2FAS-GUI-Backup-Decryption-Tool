@@ -1,3 +1,4 @@
+![2fas](https://github.com/user-attachments/assets/2f34c337-2b98-4840-896a-97a6a4a15ebc)
 # 🔐 2FAS GUI Backup Decryption Tool
 
 <div align="center">
@@ -21,7 +22,7 @@
 
 <div align="center">
 
-| 🎨 **Modern UI** | 🔒 **Secure Decryption** | 📁 **Easy File Handling** |
+| 🎨 **Modern UI** | 🔒 **Secure Decryption** | 📁 **Easy File Handling** |      
 |:---:|:---:|:---:|
 | Beautiful Qt6 interface with dark theme | Industry-standard AES-GCM encryption | Drag & drop + file browser support |
 
