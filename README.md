@@ -56,7 +56,7 @@ The **2FAS GUI Backup Decryption Tool** is a user-friendly desktop application t
 
 ### Option 1: Download Pre-built Executable (Recommended)
 
-1. **Download** the latest release from the [Releases page](https://github.com/AlexanderQueen/2fas-gui-backup-decryption-tool/releases)
+1. **Download** the latest release from the [Releases page](https://github.com/AlexanderQueen/2FAS-GUI-Backup-Decryption-Tool/releases)
 2. **Run** the executable directly - no installation required!
 3. **Load** your `.2fas` backup file
 4. **Enter** your backup password
@@ -67,8 +67,8 @@ The **2FAS GUI Backup Decryption Tool** is a user-friendly desktop application t
 ```bash
 # Clone the repository
 
-git clone https://github.com/AlexanderQueen/2fas-gui-backup-decryption-tool.git
-cd 2fas-gui-backup-decryption-tool
+git clone https://github.com/AlexanderQueen/2FAS-GUI-Backup-Decryption-Tool.git
+cd 2FAS-GUI-Backup-Decryption-Tool
 
 # Install dependencies
 pip install -r requirements.txt
@@ -194,8 +194,8 @@ We welcome contributions! Here's how you can help:
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/2fas-gui-backup-decryption-tool.git
-cd 2fas-gui-backup-decryption-tool
+git clone https://github.com/YOUR_USERNAME/2FAS-GUI-Backup-Decryption-Tool.git
+cd 2FAS-GUI-Backup-Decryption-Tool
 
 # Create virtual environment
 python -m venv venv
