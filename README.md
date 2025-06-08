@@ -1,4 +1,4 @@
-<center># 🔐 2FAS Backup Decryption Tool</center>
+# 🔐 2FAS Backup Decryption Tool
 
 <div align="center">
 
