@@ -84,9 +84,9 @@ python 2fas.py
 
 | Platform | Download | Size |
 |:--------:|:--------:|:----:|
-| 🪟 **Windows** | [2FAS-Decryption-Tool.exe](https://github.com/AlexanderQueen/2fas-decryption-tool/releases/latest/download/2FAS-Decryption-Tool.exe) | ~25MB |
-| 🍎 **macOS** | [2FAS-Decryption-Tool.dmg](https://github.com/AlexanderQueen/2fas-decryption-tool/releases/latest/download/2FAS-Decryption-Tool.dmg) | ~25MB |
-| 🐧 **Linux** | [2FAS-Decryption-Tool](https://github.com/AlexanderQueen/2fas-decryption-tool/releases/latest/download/2FAS-Decryption-Tool) | ~25MB |
+| 🪟 **Windows** | [2FAS-Decryption-Tool.exe](https://github.com/AlexanderQueen/2fas-decryption-tool/releases/latest/download/2FAS-Decryption-Tool.exe) | ~35MB |
+| 🍎 **macOS** | [2FAS-Decryption-Tool.dmg](https://github.com/AlexanderQueen/2fas-decryption-tool/releases/latest/download/2FAS-Decryption-Tool.dmg) | ~40MB |
+| 🐧 **Linux** | [2FAS-Decryption-Tool](https://github.com/AlexanderQueen/2fas-decryption-tool/releases/latest/download/2FAS-Decryption-Tool) | ~35MB |
 
 </div>
 
