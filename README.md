@@ -41,11 +41,12 @@ The **2FAS GUI Backup Decryption Tool** is a user-friendly desktop application t
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/2f34c337-2b98-4840-896a-97a6a4a15ebc" alt="Main Interface" width="400"/>
+<img src="https://github.com/user-attachments/assets/a21ed8fc-9e3b-4570-87a7-f88bd218cf27![image](https://github.com/user-attachments/assets/5e4bb2f4-c724-43bd-9898-af36f51ce8ff)
+" alt="Main Interface" width="400"/>
 <br><em>Clean, modern interface</em>
 </td>
 <td align="center">
-<img src="https://via.placeholder.com/400x300/495057/28a745?text=Drag+%26+Drop" alt="Drag & Drop" width="400"/>
+<img src="https://github.com/user-attachments/assets/744ec3eb-4f63-4228-b6a5-287b736fafac" alt="Drag & Drop" width="400"/>
 <br><em>Intuitive file handling</em>
 </td>
 </tr>
