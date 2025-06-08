@@ -41,7 +41,7 @@ The **2FAS GUI Backup Decryption Tool** is a user-friendly desktop application t
 <table>
 <tr>
 <td align="center">
-<img src="https://imgur.com/a/1ervUBE" alt="Main Interface" width="400"/>
+<img src="https://github.com/user-attachments/assets/2f34c337-2b98-4840-896a-97a6a4a15ebc" alt="Main Interface" width="400"/>
 <br><em>Clean, modern interface</em>
 </td>
 <td align="center">
