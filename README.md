@@ -1,4 +1,4 @@
-# 🔐 2FAS Backup Decryption Tool
+# 🔐 2FAS GUI Backup Decryption Tool
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![PyQt6](https://img.shields.io/badge/PyQt6-GUI-green?style=flat-square&logo=qt&logoColor=white)](https://pypi.org/project/PyQt6/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0.0-red?style=flat-square)](https://github.com/AlexanderQueen/2fas-decryption-tool/releases)
+[![Version](https://img.shields.io/badge/Version-1.0.0-red?style=flat-square)](https://github.com/AlexanderQueen/2fas-gui-backup-decryption-tool/releases)
 
 [🚀 Quick Start](#-quick-start) • [📥 Download](#-download) • [🛠️ Installation](#️-installation) • [📖 Documentation](#-documentation)
 
@@ -33,7 +33,7 @@
 
 ## 🎯 What is this?
 
-The **2FAS Backup Decryption Tool** is a user-friendly desktop application that allows you to decrypt and view your 2FAS authenticator app backup files. Whether you need to migrate to a new device, audit your 2FA tokens, or simply access your backup data, this tool provides a secure and intuitive solution.
+The **2FAS GUI Backup Decryption Tool** is a user-friendly desktop application that allows you to decrypt and view your 2FAS authenticator app backup files. Whether you need to migrate to a new device, audit your 2FA tokens, or simply access your backup data, this tool provides a secure and intuitive solution.
 
 ## 🖼️ Screenshots
 
@@ -56,7 +56,7 @@ The **2FAS Backup Decryption Tool** is a user-friendly desktop application that 
 
 ### Option 1: Download Pre-built Executable (Recommended)
 
-1. **Download** the latest release from the [Releases page](https://github.com/AlexanderQueen/2fas-decryption-tool/releases)
+1. **Download** the latest release from the [Releases page](https://github.com/AlexanderQueen/2fas-gui-backup-decryption-tool/releases)
 2. **Run** the executable directly - no installation required!
 3. **Load** your `.2fas` backup file
 4. **Enter** your backup password
@@ -66,8 +66,8 @@ The **2FAS Backup Decryption Tool** is a user-friendly desktop application that 
 
 ```bash
 # Clone the repository
-git clone https://github.com/AlexanderQueen/2fas-decryption-tool.git
-cd 2fas-decryption-tool
+git clone https://github.com/AlexanderQueen/2fas-gui-backup-decryption-tool.git
+cd 2fas-gui-backup-decryption-tool
 
 # Install dependencies
 pip install -r requirements.txt
@@ -84,9 +84,9 @@ python 2fas.py
 
 | Platform | Download | Size |
 |:--------:|:--------:|:----:|
-| 🪟 **Windows** | [2FAS-Decryption-Tool.exe](https://github.com/AlexanderQueen/2fas-decryption-tool/releases/latest/download/2FAS-Decryption-Tool.exe) | ~35MB |
-| 🍎 **macOS** | [2FAS-Decryption-Tool.dmg](https://github.com/AlexanderQueen/2fas-decryption-tool/releases/latest/download/2FAS-Decryption-Tool.dmg) | ~40MB |
-| 🐧 **Linux** | [2FAS-Decryption-Tool](https://github.com/AlexanderQueen/2fas-decryption-tool/releases/latest/download/2FAS-Decryption-Tool) | ~35MB |
+| 🪟 **Windows** | [2FAS-GUI-Backup-Decryption-Tool.exe](https://github.com/AlexanderQueen/2fas-gui-backup-decryption-tool/releases/latest/download/2FAS-GUI-Backup-Decryption-Tool.exe) | ~35MB |
+| 🍎 **macOS** | [2FAS-GUI-Backup-Decryption-Tool.dmg](https://github.com/AlexanderQueen/2fas-gui-backup-decryption-tool/releases/latest/download/2FAS-GUI-Backup-Decryption-Tool.dmg) | TBD |
+| 🐧 **Linux** | [2FAS-GUI-Backup-Decryption-Tool](https://github.com/AlexanderQueen/2fas-gui-backup-decryption-tool/releases/latest/download/2FAS-GUI-Backup-Decryption-Tool) | TBD |
 
 </div>
 
@@ -187,8 +187,8 @@ We welcome contributions! Here's how you can help:
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/2fas-decryption-tool.git
-cd 2fas-decryption-tool
+git clone https://github.com/YOUR_USERNAME/2fas-gui-backup-decryption-tool.git
+cd 2fas-gui-backup-decryption-tool
 
 # Create virtual environment
 python -m venv venv
@@ -203,7 +203,7 @@ python 2fas.py
 
 ## 🐛 Bug Reports & Feature Requests
 
-Found a bug or have a feature request? Please [open an issue](https://github.com/AlexanderQueen/2fas-decryption-tool/issues) with:
+Found a bug or have a feature request? Please [open an issue](https://github.com/AlexanderQueen/2fas-gui-backup-decryption-tool/issues) with:
 
 - **🐛 Bug Reports**: Steps to reproduce, expected vs actual behavior, system info
 - **💡 Feature Requests**: Clear description of the feature and its use case
@@ -233,6 +233,6 @@ If this tool helped you, please consider:
 
 **Made with ❤️ by [@AlexanderQueen](https://github.com/AlexanderQueen)**
 
-[🏠 Home](https://github.com/AlexanderQueen/2fas-decryption-tool) • [📝 Issues](https://github.com/AlexanderQueen/2fas-decryption-tool/issues) • [🚀 Releases](https://github.com/AlexanderQueen/2fas-decryption-tool/releases)
+[🏠 Home](https://github.com/AlexanderQueen/2fas-gui-backup-decryption-tool) • [📝 Issues](https://github.com/AlexanderQueen/2fas-gui-backup-decryption-tool/issues) • [🚀 Releases](https://github.com/AlexanderQueen/2fas-gui-backup-decryption-tool/releases)
 
 </div>
